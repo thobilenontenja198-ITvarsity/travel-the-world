@@ -1,0 +1,116 @@
+/**********************************/
+/* Universal styles               */
+/**********************************/
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #363636;
+}
+
+p{
+    line-height: 190%;
+}
+
+a{
+    text-decoration: none;
+    color: teal;
+}
+
+/**********************************/
+/* Menu                           */
+/**********************************/
+
+#menu{
+    background-color: #16a085;
+    height: 100px;
+}
+
+#menu ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+#menu li{
+    display: inline-block;
+}
+
+#menu a{
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 100px;
+    color: #ffffff;
+
+    padding: 0 40px;
+    border: none;
+    display: block;
+}
+
+
+#menu a:hover{
+    background-color: #1abc9c;
+}
+
+/**********************************/
+/* Header                         */
+/**********************************/
+
+#header{
+    padding: 60px 0px 40px 0px;
+    background-color: #333333;
+    text-align: center;
+}
+
+#header h1{
+    letter-spacing: 0.1em;
+    font-size: 44px;
+    color:  white;
+}
+
+
+#header p{
+    letter-spacing: 0.1em;
+    color:  white;
+}
+
+
+/**********************************/
+/* Banner                         */
+/**********************************/
+
+#banner{
+    height: 300px;
+}
+
+#banner img{
+    width: 100%;
+    height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
